@@ -1,3 +1,6 @@
+### jshint
+---
+
 http://jshint.com/
 
 
